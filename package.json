@@ -1,0 +1,17 @@
+{
+  "name": "gorira-ecology-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "PORT=3001 nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "PORT=3001 nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^4.0.1",
+    "vue": "^3.5.18",
+    "vue-router": "^4.5.1"
+  }
+}
