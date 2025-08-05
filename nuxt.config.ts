@@ -16,5 +16,10 @@ export default defineNuxtConfig({
     server: {
       port: 3001
     }
+  },
+  css: [],
+  head: {
+    charset: 'utf-8',
+    viewport: 'width=device-width, initial-scale=1',
   }
 })
