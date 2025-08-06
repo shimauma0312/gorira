@@ -16,5 +16,8 @@ export default defineNuxtConfig({
     server: {
       port: 3001
     }
+  },
+  app: {
+	  baseURL: '/gorira/'
   }
 })
