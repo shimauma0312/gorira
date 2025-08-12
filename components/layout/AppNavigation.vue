@@ -22,7 +22,8 @@ const navigationItems = [
   { path: '/gorilla-habitat', title: 'ゴリラの生息地' },
   { path: '/gorilla-conservation', title: 'ゴリラの保護' },
   { path: '/gorilla-behavior', title: 'ゴリラの行動' },
-  { path: '/gorilla-evolution', title: 'ゴリラの進化' }
+  { path: '/gorilla-evolution', title: 'ゴリラの進化' },
+  { path: '/gorilla-research', title: 'ゴリラの研究' }
 ]
 </script>
 
